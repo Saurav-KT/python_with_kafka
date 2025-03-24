@@ -1,1 +1,1 @@
-# This project contains the implementation of Kafka publiser-suscriber python aiokafka 
+# This project contains the implementation of Kafka publiser-suscriber pattern using python aiokafka 
